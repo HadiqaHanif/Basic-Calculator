@@ -1,5 +1,6 @@
 import os
 os. system ("cls")
+#taking user input
 first_value = float(input("Enter first value: "))
 second_value = float(input("Enter second value: "))
 operator = input("Enter operator you want to use(+ , - , / , * , %) : ")
