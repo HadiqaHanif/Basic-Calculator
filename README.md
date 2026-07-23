@@ -11,10 +11,6 @@ A simple command-line calculator built with Python for beginners. This program t
 * Modulus (`%`)
 * Displays an error message for invalid operators
 
-## Technologies Used
-
-* Python 3
-
 ## How to Run
 
 1. Make sure Python is installed on your computer.
